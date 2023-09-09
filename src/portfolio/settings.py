@@ -21,10 +21,7 @@ PROJECT_DIR = Path(__file__).ancestor(2)
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-yg@d4g!2*z4$3(8pw7c=ac)s)m3^kpjs&#y!kg!9t=kiddmu40'
 
-# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = []
