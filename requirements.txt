@@ -1,5 +1,4 @@
 pillow
-psycopg2
 unipath
 python-decouple
-django_secrets
+gunicorn
